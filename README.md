@@ -1,6 +1,6 @@
 ![Competition Field](https://content.vexrobotics.com/docs/vrc-inthezone/VRCFullFieldRender2.png)
 # VEX In The Zone 2017 - 2018 Competition
-This repository is a for the development and archival of the IEEE UH Robotics 2016-2017 VEX Competion robot. To be able to pull, push, or commit to this repository, please contact @PiesAreCircle or @JavGG95 for entry.
+This repository is a for the development and archival of the IEEE UH Robotics 2016-2017 VEX Competion robot. To be able to pull, push, or commit to this repository, please contact @dbrandonk for entry.
 
 
 ![programming module](http://content.vexrobotics.com/images/old_programming_kit.jpg)
